@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: beige;
 }
 
 code {
@@ -13,7 +14,7 @@ code {
 }
 
 .main {
-  background-color: antiquewhite;
   margin: 2em;
   height: 100vh;
+  border-radius: 25px;
 }
